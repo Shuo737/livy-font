@@ -1,0 +1,1830 @@
+[NX Daemon Server] - 2024-08-04T04:39:48.581Z - Started listening on: /var/folders/rt/0dj1vq7x68v1ncpb7501gkjw0000gn/T/659e9d905fbd3e37d2cd/d.sock
+[NX Daemon Server] - 2024-08-04T04:39:48.586Z - [WATCHER]: Subscribed to changes within: /Users/shunt737/Projects/livy-font (native)
+[NX Daemon Server] - 2024-08-04T04:39:48.588Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-08-04T04:39:48.589Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-08-04T04:39:48.592Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-08-04T04:39:48.593Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-08-04T04:39:48.949Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T04:39:48.949Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T04:39:48.949Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T04:39:48.970Z - Time taken for 'loadNxPlugins' 354.852716ms
+[NX Daemon Server] - 2024-08-04T04:39:48.971Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-08-04T04:39:48.971Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-08-04T04:39:48.971Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-08-04T04:39:48.972Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-08-04T04:39:48.975Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:39:48.975Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:39:48.975Z - Handled HASH_GLOB. Handling time: 2. Response time: 0.
+[NX Daemon Server] - 2024-08-04T04:39:48.975Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-08-04T04:39:48.975Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-08-04T04:39:48.976Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-08-04T04:39:48.976Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-08-04T04:39:48.976Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-08-04T04:39:48.977Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:39:48.977Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:39:48.977Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T04:39:48.979Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:39:48.979Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:39:48.979Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T04:39:49.199Z - Established a connection. Number of open connections: 5
+[NX Daemon Server] - 2024-08-04T04:39:49.200Z - Closed a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-08-04T04:39:49.201Z - Established a connection. Number of open connections: 5
+[NX Daemon Server] - 2024-08-04T04:39:49.202Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:39:49.203Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:39:49.203Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T04:39:49.204Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:39:49.204Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:39:49.204Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T04:39:49.209Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:39:49.209Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:39:49.210Z - Handled HASH_GLOB. Handling time: 3. Response time: 1.
+[NX Daemon Server] - 2024-08-04T04:39:49.212Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T04:39:49.212Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T04:39:49.212Z - Handled GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T04:39:50.922Z - Time taken for 'build-project-configs' 1943.184831ms
+[NX Daemon Server] - 2024-08-04T04:39:50.929Z - Time taken for '@nx/detox/plugin:createDependencies' 9.691808000000037ms
+[NX Daemon Server] - 2024-08-04T04:39:50.930Z - Time taken for '@nx/react-native/plugin:createDependencies' 12.6681880000001ms
+[NX Daemon Server] - 2024-08-04T04:39:51.033Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-08-04T04:39:51.033Z - Time taken for 'total for creating and serializing project graph' 2440.151386ms
+[NX Daemon Server] - 2024-08-04T04:39:51.038Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-08-04T04:39:51.038Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 2441. Response time: 5.
+[NX Daemon Server] - 2024-08-04T04:39:51.071Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-08-04T04:39:51.071Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-08-04T04:39:51.071Z - Handled HASH_TASKS. Handling time: 24. Response time: 0.
+[NX Daemon Server] - 2024-08-04T04:57:26.766Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T04:57:26.768Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T04:57:26.870Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T04:57:26.870Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T04:57:26.870Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T04:57:26.884Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:57:26.884Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:57:26.884Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T04:57:26.886Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:57:26.886Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:57:26.886Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T04:57:26.887Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:57:26.887Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:57:26.887Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T04:57:26.888Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:57:26.888Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:57:26.889Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T04:57:26.889Z - Time taken for 'hash changed files from watcher' 0.20374400005675852ms
+[NX Daemon Server] - 2024-08-04T04:57:26.890Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:57:26.890Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:57:26.890Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T04:57:26.892Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:57:26.892Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:57:26.892Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T04:57:26.893Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T04:57:26.893Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T04:57:26.893Z - Handled GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T04:57:26.922Z - Time taken for 'build-project-configs' 41.95053800009191ms
+[NX Daemon Server] - 2024-08-04T04:57:26.928Z - Time taken for '@nx/react-native/plugin:createDependencies' 11.90968200005591ms
+[NX Daemon Server] - 2024-08-04T04:57:26.929Z - Time taken for '@nx/detox/plugin:createDependencies' 11.083747000200674ms
+[NX Daemon Server] - 2024-08-04T04:57:26.964Z - Time taken for 'total execution time for createProjectGraph()' 41.54321100004017ms
+[NX Daemon Server] - 2024-08-04T04:58:59.342Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T04:58:59.342Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T04:58:59.543Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T04:58:59.543Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T04:58:59.543Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T04:58:59.552Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:58:59.552Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:58:59.552Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T04:58:59.554Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:58:59.554Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:58:59.554Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T04:58:59.555Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:58:59.555Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:58:59.555Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T04:58:59.556Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:58:59.556Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:58:59.556Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T04:58:59.556Z - Time taken for 'hash changed files from watcher' 0.14009599993005395ms
+[NX Daemon Server] - 2024-08-04T04:58:59.558Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:58:59.558Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:58:59.558Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T04:58:59.559Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:58:59.559Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:58:59.560Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T04:58:59.561Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T04:58:59.561Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T04:58:59.561Z - Handled GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T04:58:59.584Z - Time taken for 'build-project-configs' 29.543822000036016ms
+[NX Daemon Server] - 2024-08-04T04:58:59.591Z - Time taken for '@nx/react-native/plugin:createDependencies' 14.900734000140801ms
+[NX Daemon Server] - 2024-08-04T04:58:59.592Z - Time taken for '@nx/detox/plugin:createDependencies' 13.387424000073224ms
+[NX Daemon Server] - 2024-08-04T04:58:59.628Z - Time taken for 'total execution time for createProjectGraph()' 44.90785300009884ms
+[NX Daemon Server] - 2024-08-04T04:59:56.751Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T04:59:56.753Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T04:59:57.155Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T04:59:57.155Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T04:59:57.155Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T04:59:57.166Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:59:57.167Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:59:57.167Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T04:59:57.168Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:59:57.168Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:59:57.168Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T04:59:57.169Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:59:57.169Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:59:57.169Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T04:59:57.170Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:59:57.171Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:59:57.171Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T04:59:57.171Z - Time taken for 'hash changed files from watcher' 0.17989000002853572ms
+[NX Daemon Server] - 2024-08-04T04:59:57.172Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:59:57.172Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:59:57.172Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T04:59:57.174Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:59:57.174Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T04:59:57.174Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T04:59:57.176Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T04:59:57.176Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T04:59:57.176Z - Handled GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T04:59:57.210Z - Time taken for 'build-project-configs' 41.18302300013602ms
+[NX Daemon Server] - 2024-08-04T04:59:57.216Z - Time taken for '@nx/detox/plugin:createDependencies' 11.90965999988839ms
+[NX Daemon Server] - 2024-08-04T04:59:57.217Z - Time taken for '@nx/react-native/plugin:createDependencies' 15.524775000056252ms
+[NX Daemon Server] - 2024-08-04T04:59:57.250Z - Time taken for 'total execution time for createProjectGraph()' 43.56204699981026ms
+[NX Daemon Server] - 2024-08-04T05:00:04.099Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T05:00:04.099Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T05:00:04.899Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T05:00:04.900Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T05:00:04.900Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T05:00:04.912Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:00:04.912Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:00:04.912Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:00:04.914Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:00:04.914Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:00:04.914Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:00:04.915Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:00:04.915Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:00:04.915Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:00:04.917Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:00:04.917Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:00:04.917Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:00:04.917Z - Time taken for 'hash changed files from watcher' 0.28638299996964633ms
+[NX Daemon Server] - 2024-08-04T05:00:04.918Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:00:04.918Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:00:04.918Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:00:04.919Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:00:04.920Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:00:04.920Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T05:00:04.921Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T05:00:04.921Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T05:00:04.921Z - Handled GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:00:04.940Z - Time taken for 'build-project-configs' 31.818605999927968ms
+[NX Daemon Server] - 2024-08-04T05:00:04.946Z - Time taken for '@nx/detox/plugin:createDependencies' 9.050762999802828ms
+[NX Daemon Server] - 2024-08-04T05:00:04.947Z - Time taken for '@nx/react-native/plugin:createDependencies' 11.427680999971926ms
+[NX Daemon Server] - 2024-08-04T05:00:04.977Z - Time taken for 'total execution time for createProjectGraph()' 36.04207399999723ms
+[NX Daemon Server] - 2024-08-04T05:00:45.954Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T05:00:45.955Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T05:00:47.556Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T05:00:47.557Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T05:00:47.557Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T05:00:47.566Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:00:47.566Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:00:47.567Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T05:00:47.568Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:00:47.568Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:00:47.568Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:00:47.569Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:00:47.569Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:00:47.569Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:00:47.570Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:00:47.570Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:00:47.570Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:00:47.570Z - Time taken for 'hash changed files from watcher' 0.289335000095889ms
+[NX Daemon Server] - 2024-08-04T05:00:47.571Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:00:47.571Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:00:47.571Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:00:47.572Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:00:47.572Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:00:47.572Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:00:47.573Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T05:00:47.574Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T05:00:47.574Z - Handled GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T05:00:47.593Z - Time taken for 'build-project-configs' 26.974021999863908ms
+[NX Daemon Server] - 2024-08-04T05:00:47.598Z - Time taken for '@nx/detox/plugin:createDependencies' 9.029890999896452ms
+[NX Daemon Server] - 2024-08-04T05:00:47.598Z - Time taken for '@nx/react-native/plugin:createDependencies' 10.80939200008288ms
+[NX Daemon Server] - 2024-08-04T05:00:47.627Z - Time taken for 'total execution time for createProjectGraph()' 34.715994000202045ms
+[NX Daemon Server] - 2024-08-04T05:01:10.201Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T05:01:10.202Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T05:01:13.403Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T05:01:13.403Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T05:01:13.403Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T05:01:13.411Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:01:13.411Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:01:13.412Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T05:01:13.412Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:01:13.413Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:01:13.413Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T05:01:13.414Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:01:13.414Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:01:13.414Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:01:13.415Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:01:13.415Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:01:13.415Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:01:13.415Z - Time taken for 'hash changed files from watcher' 0.16135499998927116ms
+[NX Daemon Server] - 2024-08-04T05:01:13.416Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:01:13.416Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:01:13.416Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:01:13.417Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:01:13.417Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:01:13.418Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T05:01:13.433Z - Time taken for 'build-project-configs' 20.96464699995704ms
+[NX Daemon Server] - 2024-08-04T05:01:13.438Z - Time taken for '@nx/detox/plugin:createDependencies' 8.58816899987869ms
+[NX Daemon Server] - 2024-08-04T05:01:13.439Z - Time taken for '@nx/react-native/plugin:createDependencies' 10.844144999980927ms
+[NX Daemon Server] - 2024-08-04T05:01:13.466Z - Time taken for 'total execution time for createProjectGraph()' 33.31306599988602ms
+[NX Daemon Server] - 2024-08-04T05:01:36.976Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T05:01:36.977Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T05:01:43.378Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T05:01:43.380Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T05:01:43.380Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T05:01:43.390Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:01:43.390Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:01:43.390Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:01:43.391Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:01:43.391Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:01:43.391Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:01:43.392Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:01:43.392Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:01:43.392Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:01:43.393Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:01:43.393Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:01:43.393Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:01:43.394Z - Time taken for 'hash changed files from watcher' 0.2596179998945445ms
+[NX Daemon Server] - 2024-08-04T05:01:43.395Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:01:43.395Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:01:43.395Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:01:43.396Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:01:43.396Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:01:43.396Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:01:43.398Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T05:01:43.398Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T05:01:43.398Z - Handled GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:01:43.418Z - Time taken for 'build-project-configs' 28.959029000019655ms
+[NX Daemon Server] - 2024-08-04T05:01:43.423Z - Time taken for '@nx/detox/plugin:createDependencies' 8.733079000143334ms
+[NX Daemon Server] - 2024-08-04T05:01:43.424Z - Time taken for '@nx/react-native/plugin:createDependencies' 11.602350000059232ms
+[NX Daemon Server] - 2024-08-04T05:01:43.452Z - Time taken for 'total execution time for createProjectGraph()' 34.627710999920964ms
+[NX Daemon Server] - 2024-08-04T05:02:30.741Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T05:02:30.741Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T05:02:37.142Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T05:02:37.142Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T05:02:37.142Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T05:02:37.152Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:02:37.152Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:02:37.152Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:02:37.153Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:02:37.153Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:02:37.153Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:02:37.154Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:02:37.154Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:02:37.154Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:02:37.155Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:02:37.155Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:02:37.155Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:02:37.156Z - Time taken for 'hash changed files from watcher' 0.23065600008703768ms
+[NX Daemon Server] - 2024-08-04T05:02:37.157Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:02:37.157Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:02:37.157Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:02:37.158Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:02:37.158Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:02:37.158Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:02:37.159Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T05:02:37.159Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T05:02:37.159Z - Handled GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:02:37.180Z - Time taken for 'build-project-configs' 28.318022000137717ms
+[NX Daemon Server] - 2024-08-04T05:02:37.185Z - Time taken for '@nx/detox/plugin:createDependencies' 8.541434000013396ms
+[NX Daemon Server] - 2024-08-04T05:02:37.185Z - Time taken for '@nx/react-native/plugin:createDependencies' 10.59879199997522ms
+[NX Daemon Server] - 2024-08-04T05:02:37.214Z - Time taken for 'total execution time for createProjectGraph()' 34.92145000002347ms
+[NX Daemon Server] - 2024-08-04T05:27:40.942Z - [WATCHER]: apps/livy-font/src/index.html was modified
+[NX Daemon Server] - 2024-08-04T05:27:40.944Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T05:27:47.348Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T05:27:47.348Z - [REQUEST]: apps/livy-font/src/index.html
+[NX Daemon Server] - 2024-08-04T05:27:47.348Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T05:27:47.364Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:27:47.364Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:27:47.364Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:27:47.364Z - Time taken for 'hash changed files from watcher' 0.8528370000422001ms
+[NX Daemon Server] - 2024-08-04T05:27:47.367Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:27:47.367Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:27:47.367Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:27:47.368Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:27:47.368Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:27:47.368Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:27:47.369Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:27:47.369Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:27:47.369Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:27:47.370Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:27:47.370Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:27:47.370Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:27:47.371Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:27:47.371Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:27:47.371Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:27:47.372Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T05:27:47.372Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T05:27:47.372Z - Handled GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:27:47.410Z - Time taken for 'build-project-configs' 50.37047199998051ms
+[NX Daemon Server] - 2024-08-04T05:27:47.419Z - Time taken for '@nx/react-native/plugin:createDependencies' 14.649337999988347ms
+[NX Daemon Server] - 2024-08-04T05:27:47.419Z - Time taken for '@nx/detox/plugin:createDependencies' 13.099396999925375ms
+[NX Daemon Server] - 2024-08-04T05:27:47.450Z - Time taken for 'total execution time for createProjectGraph()' 38.81873800000176ms
+[NX Daemon Server] - 2024-08-04T05:28:08.840Z - [WATCHER]: apps/livy-font/src/index.html was modified
+[NX Daemon Server] - 2024-08-04T05:28:08.840Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T05:28:15.241Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T05:28:15.241Z - [REQUEST]: apps/livy-font/src/index.html
+[NX Daemon Server] - 2024-08-04T05:28:15.241Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T05:28:15.251Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:28:15.251Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:28:15.251Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:28:15.252Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:28:15.252Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:28:15.252Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:28:15.253Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:28:15.253Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:28:15.253Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:28:15.254Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:28:15.254Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:28:15.254Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:28:15.254Z - Time taken for 'hash changed files from watcher' 0.3396609998308122ms
+[NX Daemon Server] - 2024-08-04T05:28:15.255Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:28:15.255Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:28:15.255Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:28:15.256Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:28:15.256Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:28:15.256Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:28:15.257Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T05:28:15.257Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T05:28:15.257Z - Handled GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:28:15.275Z - Time taken for 'build-project-configs' 25.039066000375897ms
+[NX Daemon Server] - 2024-08-04T05:28:15.279Z - Time taken for '@nx/detox/plugin:createDependencies' 7.8692939998582006ms
+[NX Daemon Server] - 2024-08-04T05:28:15.280Z - Time taken for '@nx/react-native/plugin:createDependencies' 9.985198999755085ms
+[NX Daemon Server] - 2024-08-04T05:28:15.307Z - Time taken for 'total execution time for createProjectGraph()' 31.577146000228822ms
+[NX Daemon Server] - 2024-08-04T05:30:38.418Z - [WATCHER]: apps/livy-font/src/index.html was modified
+[NX Daemon Server] - 2024-08-04T05:30:38.418Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T05:30:44.821Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T05:30:44.822Z - [REQUEST]: apps/livy-font/src/index.html
+[NX Daemon Server] - 2024-08-04T05:30:44.822Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T05:30:44.833Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:30:44.833Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:30:44.833Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:30:44.834Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:30:44.834Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:30:44.834Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:30:44.835Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:30:44.835Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:30:44.835Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:30:44.835Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:30:44.836Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:30:44.836Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T05:30:44.836Z - Time taken for 'hash changed files from watcher' 0.3246849998831749ms
+[NX Daemon Server] - 2024-08-04T05:30:44.836Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:30:44.836Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:30:44.837Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T05:30:44.837Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:30:44.837Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:30:44.837Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:30:44.838Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T05:30:44.839Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T05:30:44.839Z - Handled GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T05:30:44.859Z - Time taken for 'build-project-configs' 28.392827999778092ms
+[NX Daemon Server] - 2024-08-04T05:30:44.867Z - Time taken for '@nx/react-native/plugin:createDependencies' 13.511859000194818ms
+[NX Daemon Server] - 2024-08-04T05:30:44.867Z - Time taken for '@nx/detox/plugin:createDependencies' 11.721028999891132ms
+[NX Daemon Server] - 2024-08-04T05:30:44.893Z - Time taken for 'total execution time for createProjectGraph()' 34.751964000053704ms
+[NX Daemon Server] - 2024-08-04T05:33:19.868Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T05:33:19.870Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T05:33:26.272Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T05:33:26.272Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T05:33:26.272Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T05:33:26.282Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:33:26.282Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:33:26.282Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:33:26.283Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:33:26.283Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:33:26.283Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:33:26.284Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:33:26.284Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:33:26.284Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:33:26.285Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:33:26.285Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:33:26.285Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:33:26.285Z - Time taken for 'hash changed files from watcher' 0.34353099996224046ms
+[NX Daemon Server] - 2024-08-04T05:33:26.286Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:33:26.287Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:33:26.287Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T05:33:26.288Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:33:26.288Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:33:26.288Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:33:26.289Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T05:33:26.289Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T05:33:26.289Z - Handled GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:33:26.307Z - Time taken for 'build-project-configs' 26.031946000177413ms
+[NX Daemon Server] - 2024-08-04T05:33:26.311Z - Time taken for '@nx/detox/plugin:createDependencies' 7.469715000130236ms
+[NX Daemon Server] - 2024-08-04T05:33:26.312Z - Time taken for '@nx/react-native/plugin:createDependencies' 10.075052000116557ms
+[NX Daemon Server] - 2024-08-04T05:33:26.338Z - Time taken for 'total execution time for createProjectGraph()' 31.014056000392884ms
+[NX Daemon Server] - 2024-08-04T05:33:37.380Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T05:33:37.380Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T05:33:43.782Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T05:33:43.783Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T05:33:43.783Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T05:33:43.792Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:33:43.793Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:33:43.793Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T05:33:43.793Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:33:43.794Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:33:43.794Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T05:33:43.794Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:33:43.794Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:33:43.794Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:33:43.795Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:33:43.795Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:33:43.795Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:33:43.795Z - Time taken for 'hash changed files from watcher' 0.32169899996370077ms
+[NX Daemon Server] - 2024-08-04T05:33:43.796Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:33:43.796Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:33:43.796Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:33:43.797Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:33:43.797Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:33:43.797Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:33:43.798Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T05:33:43.798Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T05:33:43.798Z - Handled GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:33:43.815Z - Time taken for 'build-project-configs' 24.339141000062227ms
+[NX Daemon Server] - 2024-08-04T05:33:43.820Z - Time taken for '@nx/detox/plugin:createDependencies' 8.620081999804825ms
+[NX Daemon Server] - 2024-08-04T05:33:43.821Z - Time taken for '@nx/react-native/plugin:createDependencies' 10.23208099976182ms
+[NX Daemon Server] - 2024-08-04T05:33:43.848Z - Time taken for 'total execution time for createProjectGraph()' 31.628762000240386ms
+[NX Daemon Server] - 2024-08-04T05:34:35.117Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T05:34:35.117Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T05:34:41.518Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T05:34:41.518Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T05:34:41.518Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T05:34:41.527Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:34:41.527Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:34:41.527Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:34:41.528Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:34:41.528Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:34:41.528Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:34:41.529Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:34:41.529Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:34:41.529Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:34:41.529Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:34:41.529Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:34:41.530Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T05:34:41.530Z - Time taken for 'hash changed files from watcher' 0.19853499997407198ms
+[NX Daemon Server] - 2024-08-04T05:34:41.530Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:34:41.530Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:34:41.530Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:34:41.531Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:34:41.531Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:34:41.531Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:34:41.532Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T05:34:41.533Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T05:34:41.533Z - Handled GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T05:34:41.550Z - Time taken for 'build-project-configs' 23.89740200014785ms
+[NX Daemon Server] - 2024-08-04T05:34:41.556Z - Time taken for '@nx/detox/plugin:createDependencies' 8.545808000024408ms
+[NX Daemon Server] - 2024-08-04T05:34:41.556Z - Time taken for '@nx/react-native/plugin:createDependencies' 10.655496999621391ms
+[NX Daemon Server] - 2024-08-04T05:34:41.584Z - Time taken for 'total execution time for createProjectGraph()' 33.55194400018081ms
+[NX Daemon Server] - 2024-08-04T05:35:21.951Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T05:35:21.951Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T05:35:28.353Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T05:35:28.353Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T05:35:28.353Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T05:35:28.362Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:35:28.362Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:35:28.362Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:35:28.363Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:35:28.363Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:35:28.363Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:35:28.364Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:35:28.364Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:35:28.365Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:35:28.366Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:35:28.366Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:35:28.366Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:35:28.366Z - Time taken for 'hash changed files from watcher' 0.13562399987131357ms
+[NX Daemon Server] - 2024-08-04T05:35:28.367Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:35:28.368Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:35:28.368Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T05:35:28.369Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:35:28.370Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:35:28.370Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T05:35:28.372Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T05:35:28.372Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T05:35:28.372Z - Handled GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:35:28.395Z - Time taken for 'build-project-configs' 32.36566300038248ms
+[NX Daemon Server] - 2024-08-04T05:35:28.402Z - Time taken for '@nx/detox/plugin:createDependencies' 10.338749999646097ms
+[NX Daemon Server] - 2024-08-04T05:35:28.403Z - Time taken for '@nx/react-native/plugin:createDependencies' 14.079440000001341ms
+[NX Daemon Server] - 2024-08-04T05:35:28.436Z - Time taken for 'total execution time for createProjectGraph()' 40.06577399978414ms
+[NX Daemon Server] - 2024-08-04T05:35:35.172Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T05:35:35.172Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T05:35:41.574Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T05:35:41.574Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T05:35:41.574Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T05:35:41.582Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:35:41.582Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:35:41.582Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:35:41.583Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:35:41.583Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:35:41.584Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T05:35:41.584Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:35:41.585Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:35:41.585Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T05:35:41.585Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:35:41.585Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:35:41.585Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:35:41.586Z - Time taken for 'hash changed files from watcher' 0.23818599991500378ms
+[NX Daemon Server] - 2024-08-04T05:35:41.586Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:35:41.586Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:35:41.586Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:35:41.587Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:35:41.587Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:35:41.587Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:35:41.588Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T05:35:41.588Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T05:35:41.588Z - Handled GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:35:41.604Z - Time taken for 'build-project-configs' 22.404112999793142ms
+[NX Daemon Server] - 2024-08-04T05:35:41.609Z - Time taken for '@nx/detox/plugin:createDependencies' 8.015143000055104ms
+[NX Daemon Server] - 2024-08-04T05:35:41.610Z - Time taken for '@nx/react-native/plugin:createDependencies' 10.175830999854952ms
+[NX Daemon Server] - 2024-08-04T05:35:41.636Z - Time taken for 'total execution time for createProjectGraph()' 31.312022000085562ms
+[NX Daemon Server] - 2024-08-04T05:36:19.925Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T05:36:19.926Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T05:36:26.328Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T05:36:26.328Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T05:36:26.328Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T05:36:26.337Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:36:26.337Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:36:26.337Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:36:26.338Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:36:26.338Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:36:26.338Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:36:26.339Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:36:26.339Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:36:26.339Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:36:26.340Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:36:26.340Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:36:26.340Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:36:26.340Z - Time taken for 'hash changed files from watcher' 0.31353799998760223ms
+[NX Daemon Server] - 2024-08-04T05:36:26.341Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:36:26.341Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:36:26.341Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:36:26.342Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:36:26.342Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:36:26.342Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:36:26.343Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T05:36:26.343Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T05:36:26.343Z - Handled GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:36:26.358Z - Time taken for 'build-project-configs' 22.427414000034332ms
+[NX Daemon Server] - 2024-08-04T05:36:26.363Z - Time taken for '@nx/detox/plugin:createDependencies' 7.570350999943912ms
+[NX Daemon Server] - 2024-08-04T05:36:26.364Z - Time taken for '@nx/react-native/plugin:createDependencies' 9.906010000035167ms
+[NX Daemon Server] - 2024-08-04T05:36:26.388Z - Time taken for 'total execution time for createProjectGraph()' 29.497185999993235ms
+[NX Daemon Server] - 2024-08-04T05:37:01.496Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T05:37:01.496Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T05:37:07.898Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T05:37:07.898Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T05:37:07.899Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T05:37:07.907Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:37:07.907Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:37:07.908Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T05:37:07.908Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:37:07.909Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:37:07.909Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T05:37:07.910Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:37:07.910Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:37:07.910Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:37:07.910Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:37:07.911Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:37:07.911Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T05:37:07.911Z - Time taken for 'hash changed files from watcher' 0.30262700002640486ms
+[NX Daemon Server] - 2024-08-04T05:37:07.911Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:37:07.912Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:37:07.912Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T05:37:07.912Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:37:07.913Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:37:07.913Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T05:37:07.913Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T05:37:07.914Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T05:37:07.914Z - Handled GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T05:37:07.928Z - Time taken for 'build-project-configs' 22.174531999975443ms
+[NX Daemon Server] - 2024-08-04T05:37:07.933Z - Time taken for '@nx/detox/plugin:createDependencies' 7.418703000061214ms
+[NX Daemon Server] - 2024-08-04T05:37:07.933Z - Time taken for '@nx/react-native/plugin:createDependencies' 9.226979000028223ms
+[NX Daemon Server] - 2024-08-04T05:37:07.960Z - Time taken for 'total execution time for createProjectGraph()' 29.16887200018391ms
+[NX Daemon Server] - 2024-08-04T05:43:22.812Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T05:43:22.812Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T05:43:27.250Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T05:43:27.251Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T05:43:29.213Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T05:43:29.213Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T05:43:29.213Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T05:43:29.221Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:43:29.221Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:43:29.221Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:43:29.223Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:43:29.223Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:43:29.223Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:43:29.224Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:43:29.224Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:43:29.224Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:43:29.225Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:43:29.225Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:43:29.225Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:43:29.226Z - Time taken for 'hash changed files from watcher' 0.11514599993824959ms
+[NX Daemon Server] - 2024-08-04T05:43:29.227Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:43:29.227Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:43:29.227Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:43:29.228Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:43:29.228Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:43:29.228Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:43:29.230Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T05:43:29.230Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T05:43:29.230Z - Handled GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:43:29.249Z - Time taken for 'build-project-configs' 28.96251800004393ms
+[NX Daemon Server] - 2024-08-04T05:43:29.255Z - Time taken for '@nx/detox/plugin:createDependencies' 8.54817399987951ms
+[NX Daemon Server] - 2024-08-04T05:43:29.256Z - Time taken for '@nx/react-native/plugin:createDependencies' 11.21869200002402ms
+[NX Daemon Server] - 2024-08-04T05:43:29.283Z - Time taken for 'total execution time for createProjectGraph()' 34.06127900024876ms
+[NX Daemon Server] - 2024-08-04T05:44:10.619Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T05:44:10.619Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T05:44:17.020Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T05:44:17.020Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T05:44:17.020Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T05:44:17.027Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:44:17.028Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:44:17.028Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T05:44:17.029Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:44:17.030Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:44:17.030Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T05:44:17.031Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:44:17.031Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:44:17.031Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:44:17.033Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:44:17.033Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:44:17.033Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:44:17.033Z - Time taken for 'hash changed files from watcher' 0.1393029997125268ms
+[NX Daemon Server] - 2024-08-04T05:44:17.035Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:44:17.035Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:44:17.035Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:44:17.036Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:44:17.037Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:44:17.037Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T05:44:17.038Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T05:44:17.038Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T05:44:17.038Z - Handled GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:44:17.054Z - Time taken for 'build-project-configs' 26.05849500000477ms
+[NX Daemon Server] - 2024-08-04T05:44:17.058Z - Time taken for '@nx/detox/plugin:createDependencies' 7.916596999857575ms
+[NX Daemon Server] - 2024-08-04T05:44:17.059Z - Time taken for '@nx/react-native/plugin:createDependencies' 10.271920000202954ms
+[NX Daemon Server] - 2024-08-04T05:44:17.084Z - Time taken for 'total execution time for createProjectGraph()' 30.144138999748975ms
+[NX Daemon Server] - 2024-08-04T05:44:53.829Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T05:44:53.830Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T05:45:00.232Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T05:45:00.232Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T05:45:00.232Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T05:45:00.240Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:45:00.240Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:45:00.240Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:45:00.241Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:45:00.241Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:45:00.241Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:45:00.242Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:45:00.242Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:45:00.242Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:45:00.243Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:45:00.244Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:45:00.244Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T05:45:00.244Z - Time taken for 'hash changed files from watcher' 0.24345000041648746ms
+[NX Daemon Server] - 2024-08-04T05:45:00.244Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:45:00.245Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:45:00.245Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T05:45:00.246Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:45:00.246Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:45:00.246Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:45:00.247Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T05:45:00.247Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T05:45:00.247Z - Handled GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:45:00.264Z - Time taken for 'build-project-configs' 24.833221999928355ms
+[NX Daemon Server] - 2024-08-04T05:45:00.269Z - Time taken for '@nx/detox/plugin:createDependencies' 7.685192000120878ms
+[NX Daemon Server] - 2024-08-04T05:45:00.270Z - Time taken for '@nx/react-native/plugin:createDependencies' 9.952965999953449ms
+[NX Daemon Server] - 2024-08-04T05:45:00.296Z - Time taken for 'total execution time for createProjectGraph()' 31.24975199997425ms
+[NX Daemon Server] - 2024-08-04T05:50:58.380Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T05:50:58.382Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T05:51:04.788Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T05:51:04.788Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T05:51:04.788Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T05:51:04.803Z - Time taken for 'hash changed files from watcher' 2.712669000029564ms
+[NX Daemon Server] - 2024-08-04T05:51:04.811Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:51:04.811Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:51:04.811Z - Handled HASH_GLOB. Handling time: 3. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:51:04.813Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:51:04.813Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:51:04.813Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:51:04.815Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:51:04.815Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:51:04.815Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:51:04.818Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:51:04.818Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:51:04.818Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:51:04.820Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:51:04.820Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:51:04.820Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:51:04.822Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:51:04.822Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:51:04.822Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:51:04.824Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T05:51:04.824Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T05:51:04.824Z - Handled GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:51:04.874Z - Time taken for 'build-project-configs' 69.86808199994266ms
+[NX Daemon Server] - 2024-08-04T05:51:04.884Z - Time taken for '@nx/detox/plugin:createDependencies' 15.379754000343382ms
+[NX Daemon Server] - 2024-08-04T05:51:04.885Z - Time taken for '@nx/react-native/plugin:createDependencies' 18.42562099918723ms
+[NX Daemon Server] - 2024-08-04T05:51:04.921Z - Time taken for 'total execution time for createProjectGraph()' 49.82939499989152ms
+[NX Daemon Server] - 2024-08-04T05:51:29.254Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T05:51:29.254Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T05:51:35.654Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T05:51:35.655Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T05:51:35.655Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T05:51:35.665Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:51:35.665Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:51:35.665Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:51:35.666Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:51:35.666Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:51:35.666Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:51:35.667Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:51:35.667Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:51:35.667Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:51:35.668Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:51:35.668Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:51:35.668Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:51:35.668Z - Time taken for 'hash changed files from watcher' 0.21716900076717138ms
+[NX Daemon Server] - 2024-08-04T05:51:35.669Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:51:35.669Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:51:35.669Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:51:35.670Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:51:35.670Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:51:35.670Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:51:35.671Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T05:51:35.671Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T05:51:35.671Z - Handled GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:51:35.690Z - Time taken for 'build-project-configs' 27.348952999338508ms
+[NX Daemon Server] - 2024-08-04T05:51:35.698Z - Time taken for '@nx/react-native/plugin:createDependencies' 11.667609999887645ms
+[NX Daemon Server] - 2024-08-04T05:51:35.725Z - Time taken for 'total execution time for createProjectGraph()' 33.52421799954027ms
+[NX Daemon Server] - 2024-08-04T05:53:17.455Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T05:53:17.455Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T05:53:23.855Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T05:53:23.855Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T05:53:23.855Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T05:53:23.863Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:53:23.863Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:53:23.863Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:53:23.864Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:53:23.864Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:53:23.864Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:53:23.865Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:53:23.865Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:53:23.865Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:53:23.866Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:53:23.866Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:53:23.866Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:53:23.866Z - Time taken for 'hash changed files from watcher' 0.3133600000292063ms
+[NX Daemon Server] - 2024-08-04T05:53:23.867Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:53:23.867Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:53:23.867Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:53:23.868Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:53:23.868Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:53:23.868Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:53:23.869Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T05:53:23.869Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T05:53:23.869Z - Handled GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:53:23.885Z - Time taken for 'build-project-configs' 22.187175000086427ms
+[NX Daemon Server] - 2024-08-04T05:53:23.889Z - Time taken for '@nx/detox/plugin:createDependencies' 7.225689000450075ms
+[NX Daemon Server] - 2024-08-04T05:53:23.890Z - Time taken for '@nx/react-native/plugin:createDependencies' 9.814121000468731ms
+[NX Daemon Server] - 2024-08-04T05:53:23.915Z - Time taken for 'total execution time for createProjectGraph()' 29.943171000108123ms
+[NX Daemon Server] - 2024-08-04T05:53:50.023Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T05:53:50.023Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T05:53:56.425Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T05:53:56.425Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T05:53:56.425Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T05:53:56.434Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:53:56.434Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:53:56.434Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:53:56.435Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:53:56.435Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:53:56.435Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:53:56.436Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:53:56.436Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:53:56.436Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:53:56.437Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:53:56.437Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:53:56.437Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:53:56.437Z - Time taken for 'hash changed files from watcher' 0.3243300002068281ms
+[NX Daemon Server] - 2024-08-04T05:53:56.438Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:53:56.438Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:53:56.438Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:53:56.439Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:53:56.439Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:53:56.439Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:53:56.440Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T05:53:56.440Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T05:53:56.440Z - Handled GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:53:56.457Z - Time taken for 'build-project-configs' 24.124377999454737ms
+[NX Daemon Server] - 2024-08-04T05:53:56.461Z - Time taken for '@nx/detox/plugin:createDependencies' 7.222777999937534ms
+[NX Daemon Server] - 2024-08-04T05:53:56.463Z - Time taken for '@nx/react-native/plugin:createDependencies' 9.898351999931037ms
+[NX Daemon Server] - 2024-08-04T05:53:56.490Z - Time taken for 'total execution time for createProjectGraph()' 31.294680999591947ms
+[NX Daemon Server] - 2024-08-04T05:54:14.995Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T05:54:14.995Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T05:54:21.396Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T05:54:21.396Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T05:54:21.396Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T05:54:21.402Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:54:21.403Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:54:21.403Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T05:54:21.403Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:54:21.404Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:54:21.404Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T05:54:21.405Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:54:21.405Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:54:21.405Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:54:21.406Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:54:21.406Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:54:21.406Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:54:21.406Z - Time taken for 'hash changed files from watcher' 0.12938599940389395ms
+[NX Daemon Server] - 2024-08-04T05:54:21.408Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:54:21.408Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:54:21.408Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:54:21.409Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:54:21.409Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:54:21.409Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:54:21.410Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T05:54:21.410Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T05:54:21.410Z - Handled GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:54:21.428Z - Time taken for 'build-project-configs' 23.324338999576867ms
+[NX Daemon Server] - 2024-08-04T05:54:21.437Z - Time taken for '@nx/detox/plugin:createDependencies' 11.40590799972415ms
+[NX Daemon Server] - 2024-08-04T05:54:21.437Z - Time taken for '@nx/react-native/plugin:createDependencies' 13.413604999892414ms
+[NX Daemon Server] - 2024-08-04T05:54:21.465Z - Time taken for 'total execution time for createProjectGraph()' 36.5811399994418ms
+[NX Daemon Server] - 2024-08-04T05:54:49.984Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T05:54:49.984Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T05:54:56.387Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T05:54:56.387Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T05:54:56.388Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T05:54:56.396Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:54:56.396Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:54:56.396Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:54:56.397Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:54:56.397Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:54:56.397Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:54:56.398Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:54:56.398Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:54:56.398Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:54:56.399Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:54:56.399Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:54:56.399Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:54:56.399Z - Time taken for 'hash changed files from watcher' 0.3113090004771948ms
+[NX Daemon Server] - 2024-08-04T05:54:56.400Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:54:56.400Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:54:56.400Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:54:56.401Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:54:56.401Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:54:56.401Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:54:56.402Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T05:54:56.402Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T05:54:56.402Z - Handled GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:54:56.417Z - Time taken for 'build-project-configs' 21.895131999626756ms
+[NX Daemon Server] - 2024-08-04T05:54:56.422Z - Time taken for '@nx/detox/plugin:createDependencies' 8.072843000292778ms
+[NX Daemon Server] - 2024-08-04T05:54:56.423Z - Time taken for '@nx/react-native/plugin:createDependencies' 10.327596000395715ms
+[NX Daemon Server] - 2024-08-04T05:54:56.448Z - Time taken for 'total execution time for createProjectGraph()' 30.022694000042975ms
+[NX Daemon Server] - 2024-08-04T05:55:20.261Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T05:55:20.261Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T05:55:25.077Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T05:55:25.077Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T05:55:26.662Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T05:55:26.662Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T05:55:26.662Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T05:55:26.671Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:55:26.671Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:55:26.671Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:55:26.672Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:55:26.672Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:55:26.672Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:55:26.673Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:55:26.673Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:55:26.673Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:55:26.674Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:55:26.674Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:55:26.674Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:55:26.674Z - Time taken for 'hash changed files from watcher' 0.31903399992734194ms
+[NX Daemon Server] - 2024-08-04T05:55:26.675Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:55:26.675Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:55:26.675Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:55:26.676Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:55:26.676Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:55:26.676Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:55:26.677Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T05:55:26.677Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T05:55:26.677Z - Handled GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:55:26.692Z - Time taken for 'build-project-configs' 21.300970000214875ms
+[NX Daemon Server] - 2024-08-04T05:55:26.697Z - Time taken for '@nx/detox/plugin:createDependencies' 7.453565999865532ms
+[NX Daemon Server] - 2024-08-04T05:55:26.699Z - Time taken for '@nx/react-native/plugin:createDependencies' 11.395959000103176ms
+[NX Daemon Server] - 2024-08-04T05:55:26.725Z - Time taken for 'total execution time for createProjectGraph()' 33.19283500034362ms
+[NX Daemon Server] - 2024-08-04T05:56:41.683Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T05:56:41.683Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T05:56:48.085Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T05:56:48.086Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T05:56:48.086Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T05:56:48.095Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:56:48.095Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:56:48.095Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:56:48.096Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:56:48.096Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:56:48.096Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:56:48.097Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:56:48.097Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:56:48.097Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:56:48.098Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:56:48.098Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:56:48.098Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:56:48.098Z - Time taken for 'hash changed files from watcher' 0.3142529996111989ms
+[NX Daemon Server] - 2024-08-04T05:56:48.099Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:56:48.099Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:56:48.099Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:56:48.100Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:56:48.100Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:56:48.100Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:56:48.101Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T05:56:48.101Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T05:56:48.101Z - Handled GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:56:48.116Z - Time taken for 'build-project-configs' 21.642532999627292ms
+[NX Daemon Server] - 2024-08-04T05:56:48.120Z - Time taken for '@nx/detox/plugin:createDependencies' 7.31882300041616ms
+[NX Daemon Server] - 2024-08-04T05:56:48.122Z - Time taken for '@nx/react-native/plugin:createDependencies' 10.287494000047445ms
+[NX Daemon Server] - 2024-08-04T05:56:48.146Z - Time taken for 'total execution time for createProjectGraph()' 29.86577000003308ms
+[NX Daemon Server] - 2024-08-04T05:56:50.507Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T05:56:50.507Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T05:56:54.494Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T05:56:54.494Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T05:56:56.907Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T05:56:56.908Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T05:56:56.908Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T05:56:56.915Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:56:56.915Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:56:56.915Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:56:56.916Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:56:56.916Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:56:56.916Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:56:56.917Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:56:56.917Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:56:56.917Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:56:56.918Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:56:56.918Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:56:56.918Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:56:56.918Z - Time taken for 'hash changed files from watcher' 0.13416699972003698ms
+[NX Daemon Server] - 2024-08-04T05:56:56.919Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:56:56.919Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:56:56.919Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:56:56.920Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:56:56.920Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:56:56.921Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T05:56:56.922Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T05:56:56.922Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T05:56:56.922Z - Handled GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:56:56.939Z - Time taken for 'build-project-configs' 22.800882000476122ms
+[NX Daemon Server] - 2024-08-04T05:56:56.944Z - Time taken for '@nx/detox/plugin:createDependencies' 8.056197999976575ms
+[NX Daemon Server] - 2024-08-04T05:56:56.946Z - Time taken for '@nx/react-native/plugin:createDependencies' 11.70831899996847ms
+[NX Daemon Server] - 2024-08-04T05:56:56.973Z - Time taken for 'total execution time for createProjectGraph()' 33.879871000535786ms
+[NX Daemon Server] - 2024-08-04T05:58:13.716Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T05:58:13.716Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T05:58:20.118Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T05:58:20.118Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T05:58:20.118Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T05:58:20.125Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:58:20.125Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:58:20.125Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:58:20.126Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:58:20.126Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:58:20.126Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:58:20.127Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:58:20.127Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:58:20.127Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:58:20.128Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:58:20.128Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:58:20.128Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:58:20.129Z - Time taken for 'hash changed files from watcher' 0.18549599964171648ms
+[NX Daemon Server] - 2024-08-04T05:58:20.130Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:58:20.130Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:58:20.130Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:58:20.131Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:58:20.131Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:58:20.131Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:58:20.132Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T05:58:20.133Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T05:58:20.133Z - Handled GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T05:58:20.149Z - Time taken for 'build-project-configs' 23.09561099950224ms
+[NX Daemon Server] - 2024-08-04T05:58:20.154Z - Time taken for '@nx/detox/plugin:createDependencies' 8.247343000024557ms
+[NX Daemon Server] - 2024-08-04T05:58:20.154Z - Time taken for '@nx/react-native/plugin:createDependencies' 10.207757000811398ms
+[NX Daemon Server] - 2024-08-04T05:58:20.180Z - Time taken for 'total execution time for createProjectGraph()' 31.128627999685705ms
+[NX Daemon Server] - 2024-08-04T05:58:58.808Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T05:58:58.808Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T05:59:05.209Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T05:59:05.210Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T05:59:05.210Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T05:59:05.218Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:59:05.218Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:59:05.218Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:59:05.219Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:59:05.219Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:59:05.219Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:59:05.220Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:59:05.220Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:59:05.220Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:59:05.221Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:59:05.221Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:59:05.221Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:59:05.221Z - Time taken for 'hash changed files from watcher' 0.2289319997653365ms
+[NX Daemon Server] - 2024-08-04T05:59:05.222Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:59:05.222Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:59:05.222Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:59:05.223Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:59:05.223Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T05:59:05.223Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T05:59:05.223Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T05:59:05.224Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T05:59:05.224Z - Handled GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T05:59:05.239Z - Time taken for 'build-project-configs' 21.74980300012976ms
+[NX Daemon Server] - 2024-08-04T05:59:05.244Z - Time taken for '@nx/detox/plugin:createDependencies' 7.613826000131667ms
+[NX Daemon Server] - 2024-08-04T05:59:05.246Z - Time taken for '@nx/react-native/plugin:createDependencies' 10.925524999387562ms
+[NX Daemon Server] - 2024-08-04T05:59:05.270Z - Time taken for 'total execution time for createProjectGraph()' 30.08250700030476ms
+[NX Daemon Server] - 2024-08-04T06:02:01.999Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T06:02:01.999Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T06:02:08.401Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T06:02:08.401Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T06:02:08.401Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T06:02:08.411Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:02:08.411Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:02:08.411Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:02:08.412Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:02:08.412Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:02:08.412Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:02:08.414Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:02:08.414Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:02:08.414Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:02:08.415Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:02:08.415Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:02:08.415Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:02:08.415Z - Time taken for 'hash changed files from watcher' 0.22471400070935488ms
+[NX Daemon Server] - 2024-08-04T06:02:08.416Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:02:08.416Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:02:08.416Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:02:08.417Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:02:08.418Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:02:08.418Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T06:02:08.419Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T06:02:08.419Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T06:02:08.419Z - Handled GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:02:08.439Z - Time taken for 'build-project-configs' 29.410945000126958ms
+[NX Daemon Server] - 2024-08-04T06:02:08.446Z - Time taken for '@nx/detox/plugin:createDependencies' 10.144832999445498ms
+[NX Daemon Server] - 2024-08-04T06:02:08.447Z - Time taken for '@nx/react-native/plugin:createDependencies' 13.258395000360906ms
+[NX Daemon Server] - 2024-08-04T06:02:08.471Z - Time taken for 'total execution time for createProjectGraph()' 32.40817599929869ms
+[NX Daemon Server] - 2024-08-04T06:02:08.602Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T06:02:08.603Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T06:02:12.057Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T06:02:12.057Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T06:02:15.005Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T06:02:15.005Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T06:02:15.005Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T06:02:15.011Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:02:15.011Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:02:15.011Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:02:15.012Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:02:15.012Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:02:15.012Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:02:15.013Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:02:15.013Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:02:15.013Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:02:15.013Z - Time taken for 'hash changed files from watcher' 0.14429999981075525ms
+[NX Daemon Server] - 2024-08-04T06:02:15.014Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:02:15.014Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:02:15.014Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:02:15.015Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:02:15.015Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:02:15.015Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:02:15.016Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:02:15.016Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:02:15.016Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:02:15.017Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T06:02:15.017Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T06:02:15.017Z - Handled GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:02:15.035Z - Time taken for 'build-project-configs' 22.83163300063461ms
+[NX Daemon Server] - 2024-08-04T06:02:15.040Z - Time taken for '@nx/detox/plugin:createDependencies' 7.668996000662446ms
+[NX Daemon Server] - 2024-08-04T06:02:15.041Z - Time taken for '@nx/react-native/plugin:createDependencies' 10.36507899966091ms
+[NX Daemon Server] - 2024-08-04T06:02:15.068Z - Time taken for 'total execution time for createProjectGraph()' 32.16483000013977ms
+[NX Daemon Server] - 2024-08-04T06:05:28.604Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T06:05:28.605Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T06:05:35.007Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T06:05:35.007Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T06:05:35.007Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T06:05:35.018Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:05:35.018Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:05:35.018Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:05:35.019Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:05:35.019Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:05:35.019Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:05:35.019Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:05:35.020Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:05:35.020Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T06:05:35.020Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:05:35.020Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:05:35.020Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:05:35.020Z - Time taken for 'hash changed files from watcher' 0.2090339995920658ms
+[NX Daemon Server] - 2024-08-04T06:05:35.021Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:05:35.021Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:05:35.021Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:05:35.022Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:05:35.022Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:05:35.022Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:05:35.023Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T06:05:35.023Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T06:05:35.023Z - Handled GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:05:35.040Z - Time taken for 'build-project-configs' 25.308856000192463ms
+[NX Daemon Server] - 2024-08-04T06:05:35.044Z - Time taken for '@nx/detox/plugin:createDependencies' 7.089492999948561ms
+[NX Daemon Server] - 2024-08-04T06:05:35.047Z - Time taken for '@nx/react-native/plugin:createDependencies' 11.288199000060558ms
+[NX Daemon Server] - 2024-08-04T06:05:35.069Z - Time taken for 'total execution time for createProjectGraph()' 28.895423999987543ms
+[NX Daemon Server] - 2024-08-04T06:08:50.531Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T06:08:50.532Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T06:08:56.934Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T06:08:56.934Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T06:08:56.934Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T06:08:56.943Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:08:56.943Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:08:56.943Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:08:56.944Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:08:56.944Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:08:56.944Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:08:56.945Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:08:56.945Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:08:56.945Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:08:56.945Z - Time taken for 'hash changed files from watcher' 0.31862800009548664ms
+[NX Daemon Server] - 2024-08-04T06:08:56.946Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:08:56.946Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:08:56.946Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:08:56.947Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:08:56.947Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:08:56.947Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:08:56.948Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:08:56.948Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:08:56.948Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:08:56.950Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T06:08:56.950Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T06:08:56.950Z - Handled GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:08:56.971Z - Time taken for 'build-project-configs' 28.551760000176728ms
+[NX Daemon Server] - 2024-08-04T06:08:56.977Z - Time taken for '@nx/detox/plugin:createDependencies' 8.622626999393106ms
+[NX Daemon Server] - 2024-08-04T06:08:56.978Z - Time taken for '@nx/react-native/plugin:createDependencies' 11.67232200037688ms
+[NX Daemon Server] - 2024-08-04T06:08:57.003Z - Time taken for 'total execution time for createProjectGraph()' 31.00327800028026ms
+[NX Daemon Server] - 2024-08-04T06:09:28.554Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T06:09:28.554Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T06:09:34.956Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T06:09:34.956Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T06:09:34.956Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T06:09:34.964Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:09:34.965Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:09:34.965Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T06:09:34.966Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:09:34.966Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:09:34.966Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:09:34.966Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:09:34.967Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:09:34.967Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T06:09:34.967Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:09:34.968Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:09:34.968Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T06:09:34.968Z - Time taken for 'hash changed files from watcher' 0.21788000036031008ms
+[NX Daemon Server] - 2024-08-04T06:09:34.968Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:09:34.968Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:09:34.969Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T06:09:34.969Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:09:34.970Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:09:34.970Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T06:09:34.971Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T06:09:34.971Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T06:09:34.971Z - Handled GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:09:34.988Z - Time taken for 'build-project-configs' 23.748788999393582ms
+[NX Daemon Server] - 2024-08-04T06:09:34.995Z - Time taken for '@nx/detox/plugin:createDependencies' 10.43232100084424ms
+[NX Daemon Server] - 2024-08-04T06:09:34.995Z - Time taken for '@nx/react-native/plugin:createDependencies' 12.171908999793231ms
+[NX Daemon Server] - 2024-08-04T06:09:35.022Z - Time taken for 'total execution time for createProjectGraph()' 33.10490700043738ms
+[NX Daemon Server] - 2024-08-04T06:09:51.267Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T06:09:51.267Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T06:09:57.669Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T06:09:57.670Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T06:09:57.670Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T06:09:57.678Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:09:57.678Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:09:57.678Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:09:57.679Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:09:57.679Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:09:57.679Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:09:57.680Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:09:57.680Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:09:57.680Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:09:57.680Z - Time taken for 'hash changed files from watcher' 0.2210079999640584ms
+[NX Daemon Server] - 2024-08-04T06:09:57.681Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:09:57.681Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:09:57.681Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:09:57.682Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:09:57.682Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:09:57.682Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:09:57.683Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:09:57.683Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:09:57.683Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:09:57.683Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T06:09:57.684Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T06:09:57.684Z - Handled GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T06:09:57.699Z - Time taken for 'build-project-configs' 22.023733000271022ms
+[NX Daemon Server] - 2024-08-04T06:09:57.704Z - Time taken for '@nx/detox/plugin:createDependencies' 7.585094999521971ms
+[NX Daemon Server] - 2024-08-04T06:09:57.705Z - Time taken for '@nx/react-native/plugin:createDependencies' 10.022466000169516ms
+[NX Daemon Server] - 2024-08-04T06:09:57.728Z - Time taken for 'total execution time for createProjectGraph()' 28.27659299969673ms
+[NX Daemon Server] - 2024-08-04T06:14:20.102Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T06:14:20.102Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T06:14:26.505Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T06:14:26.505Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T06:14:26.505Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T06:14:26.516Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:14:26.516Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:14:26.516Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:14:26.517Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:14:26.517Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:14:26.517Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:14:26.518Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:14:26.518Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:14:26.518Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:14:26.519Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:14:26.519Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:14:26.519Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:14:26.519Z - Time taken for 'hash changed files from watcher' 0.3377700001001358ms
+[NX Daemon Server] - 2024-08-04T06:14:26.520Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:14:26.520Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:14:26.520Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:14:26.521Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:14:26.521Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:14:26.521Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:14:26.522Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T06:14:26.522Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T06:14:26.522Z - Handled GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:14:26.539Z - Time taken for 'build-project-configs' 25.8532030005008ms
+[NX Daemon Server] - 2024-08-04T06:14:26.543Z - Time taken for '@nx/detox/plugin:createDependencies' 7.833271999843419ms
+[NX Daemon Server] - 2024-08-04T06:14:26.544Z - Time taken for '@nx/react-native/plugin:createDependencies' 10.195197999477386ms
+[NX Daemon Server] - 2024-08-04T06:14:26.568Z - Time taken for 'total execution time for createProjectGraph()' 28.76712100021541ms
+[NX Daemon Server] - 2024-08-04T06:14:29.740Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T06:14:29.740Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T06:14:36.141Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T06:14:36.142Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T06:14:36.142Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T06:14:36.150Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:14:36.150Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:14:36.150Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:14:36.151Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:14:36.151Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:14:36.151Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:14:36.152Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:14:36.152Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:14:36.152Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:14:36.152Z - Time taken for 'hash changed files from watcher' 0.19595200009644032ms
+[NX Daemon Server] - 2024-08-04T06:14:36.153Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:14:36.153Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:14:36.153Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:14:36.154Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:14:36.154Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:14:36.154Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:14:36.155Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:14:36.155Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:14:36.155Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:14:36.156Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T06:14:36.156Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T06:14:36.156Z - Handled GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:14:36.173Z - Time taken for 'build-project-configs' 22.673573999665678ms
+[NX Daemon Server] - 2024-08-04T06:14:36.181Z - Time taken for '@nx/detox/plugin:createDependencies' 11.086250999942422ms
+[NX Daemon Server] - 2024-08-04T06:14:36.184Z - Time taken for '@nx/react-native/plugin:createDependencies' 14.8495859997347ms
+[NX Daemon Server] - 2024-08-04T06:14:36.209Z - Time taken for 'total execution time for createProjectGraph()' 34.85955400019884ms
+[NX Daemon Server] - 2024-08-04T06:15:37.940Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T06:15:37.940Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T06:15:44.340Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T06:15:44.340Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T06:15:44.340Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T06:15:44.348Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:15:44.348Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:15:44.349Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T06:15:44.350Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:15:44.350Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:15:44.350Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:15:44.351Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:15:44.351Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:15:44.351Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:15:44.352Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:15:44.352Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:15:44.352Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:15:44.353Z - Time taken for 'hash changed files from watcher' 0.22144400049000978ms
+[NX Daemon Server] - 2024-08-04T06:15:44.354Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:15:44.354Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:15:44.354Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:15:44.355Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:15:44.355Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:15:44.355Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:15:44.356Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T06:15:44.356Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T06:15:44.356Z - Handled GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:15:44.374Z - Time taken for 'build-project-configs' 23.981049000285566ms
+[NX Daemon Server] - 2024-08-04T06:15:44.378Z - Time taken for '@nx/detox/plugin:createDependencies' 7.592063000425696ms
+[NX Daemon Server] - 2024-08-04T06:15:44.379Z - Time taken for '@nx/react-native/plugin:createDependencies' 10.548512999899685ms
+[NX Daemon Server] - 2024-08-04T06:15:44.405Z - Time taken for 'total execution time for createProjectGraph()' 31.953465000726283ms
+[NX Daemon Server] - 2024-08-04T06:15:50.727Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T06:15:50.728Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T06:15:57.128Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T06:15:57.129Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T06:15:57.129Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T06:15:57.138Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:15:57.138Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:15:57.138Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:15:57.139Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:15:57.139Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:15:57.139Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:15:57.140Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:15:57.140Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:15:57.140Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:15:57.140Z - Time taken for 'hash changed files from watcher' 0.3163589993491769ms
+[NX Daemon Server] - 2024-08-04T06:15:57.141Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:15:57.141Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:15:57.141Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:15:57.142Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:15:57.142Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:15:57.142Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:15:57.142Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:15:57.143Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:15:57.143Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T06:15:57.143Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T06:15:57.144Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T06:15:57.144Z - Handled GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T06:15:57.158Z - Time taken for 'build-project-configs' 20.976634999737144ms
+[NX Daemon Server] - 2024-08-04T06:15:57.162Z - Time taken for '@nx/detox/plugin:createDependencies' 6.10578399989754ms
+[NX Daemon Server] - 2024-08-04T06:15:57.165Z - Time taken for '@nx/react-native/plugin:createDependencies' 10.910117999650538ms
+[NX Daemon Server] - 2024-08-04T06:15:57.187Z - Time taken for 'total execution time for createProjectGraph()' 28.116926999762654ms
+[NX Daemon Server] - 2024-08-04T06:16:04.684Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T06:16:04.685Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T06:16:11.086Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T06:16:11.086Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T06:16:11.086Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T06:16:11.092Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:16:11.092Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:16:11.092Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:16:11.093Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:16:11.093Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:16:11.093Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:16:11.094Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:16:11.094Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:16:11.094Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:16:11.094Z - Time taken for 'hash changed files from watcher' 0.1731989998370409ms
+[NX Daemon Server] - 2024-08-04T06:16:11.095Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:16:11.095Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:16:11.095Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:16:11.096Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:16:11.096Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:16:11.096Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:16:11.097Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:16:11.097Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:16:11.097Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:16:11.098Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T06:16:11.098Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T06:16:11.098Z - Handled GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:16:11.114Z - Time taken for 'build-project-configs' 20.50508700031787ms
+[NX Daemon Server] - 2024-08-04T06:16:11.121Z - Time taken for '@nx/detox/plugin:createDependencies' 10.168345999903977ms
+[NX Daemon Server] - 2024-08-04T06:16:11.123Z - Time taken for '@nx/react-native/plugin:createDependencies' 13.36860700044781ms
+[NX Daemon Server] - 2024-08-04T06:16:11.147Z - Time taken for 'total execution time for createProjectGraph()' 32.4649210004136ms
+[NX Daemon Server] - 2024-08-04T06:16:20.080Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T06:16:20.081Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T06:16:26.483Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T06:16:26.484Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T06:16:26.484Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T06:16:26.493Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:16:26.493Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:16:26.493Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:16:26.494Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:16:26.494Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:16:26.494Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:16:26.495Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:16:26.495Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:16:26.495Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:16:26.495Z - Time taken for 'hash changed files from watcher' 0.3203810006380081ms
+[NX Daemon Server] - 2024-08-04T06:16:26.496Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:16:26.496Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:16:26.496Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:16:26.497Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:16:26.497Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:16:26.497Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:16:26.498Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:16:26.498Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T06:16:26.498Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:16:26.499Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T06:16:26.499Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T06:16:26.499Z - Handled GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T06:16:26.515Z - Time taken for 'build-project-configs' 22.6561380000785ms
+[NX Daemon Server] - 2024-08-04T06:16:26.519Z - Time taken for '@nx/detox/plugin:createDependencies' 6.554064000025392ms
+[NX Daemon Server] - 2024-08-04T06:16:26.521Z - Time taken for '@nx/react-native/plugin:createDependencies' 10.742403000593185ms
+[NX Daemon Server] - 2024-08-04T06:16:26.543Z - Time taken for 'total execution time for createProjectGraph()' 28.008640000596642ms
+[NX Daemon Server] - 2024-08-04T06:28:37.891Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T06:28:37.892Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-08-04T06:28:38.343Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T06:28:38.343Z - [WATCHER]: Stopping the watcher for /Users/shunt737/Projects/livy-font (sources)
+[NX Daemon Server] - 2024-08-04T06:28:38.343Z - [WATCHER]: Stopping the watcher for /Users/shunt737/Projects/livy-font (outputs)
+[NX Daemon Server] - 2024-08-04T06:28:38.343Z - Server stopped because: "LOCK_FILES_CHANGED"
+[NX Daemon Server] - 2024-08-04T19:31:37.274Z - Started listening on: /var/folders/rt/0dj1vq7x68v1ncpb7501gkjw0000gn/T/659e9d905fbd3e37d2cd/d.sock
+[NX Daemon Server] - 2024-08-04T19:31:37.280Z - [WATCHER]: Subscribed to changes within: /Users/shunt737/Projects/livy-font (native)
+[NX Daemon Server] - 2024-08-04T19:31:37.282Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-08-04T19:31:37.284Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-08-04T19:31:37.286Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-08-04T19:31:37.287Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-08-04T19:31:37.587Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T19:31:37.587Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T19:31:37.587Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T19:31:37.600Z - Time taken for 'loadNxPlugins' 298.867492ms
+[NX Daemon Server] - 2024-08-04T19:31:37.600Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-08-04T19:31:37.601Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-08-04T19:31:37.601Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-08-04T19:31:37.602Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-08-04T19:31:37.603Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:31:37.603Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:31:37.603Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:31:37.604Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-08-04T19:31:37.604Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-08-04T19:31:37.604Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-08-04T19:31:37.604Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-08-04T19:31:37.604Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-08-04T19:31:37.605Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:31:37.605Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:31:37.605Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:31:37.606Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:31:37.606Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:31:37.606Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:31:37.770Z - Established a connection. Number of open connections: 5
+[NX Daemon Server] - 2024-08-04T19:31:37.771Z - Closed a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-08-04T19:31:37.772Z - Established a connection. Number of open connections: 5
+[NX Daemon Server] - 2024-08-04T19:31:37.773Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:31:37.773Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:31:37.774Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T19:31:37.778Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:31:37.778Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:31:37.778Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:31:37.779Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:31:37.779Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:31:37.779Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:31:37.780Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T19:31:37.781Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T19:31:37.781Z - Handled GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T19:31:39.621Z - Time taken for 'build-project-configs' 2010.604727ms
+[NX Daemon Server] - 2024-08-04T19:31:39.627Z - Time taken for '@nx/react-native/plugin:createDependencies' 9.76102499999979ms
+[NX Daemon Server] - 2024-08-04T19:31:39.627Z - Time taken for '@nx/detox/plugin:createDependencies' 9.092428000000382ms
+[NX Daemon Server] - 2024-08-04T19:31:39.715Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-08-04T19:31:39.716Z - Time taken for 'total for creating and serializing project graph' 2428.622711ms
+[NX Daemon Server] - 2024-08-04T19:31:39.720Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-08-04T19:31:39.720Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 2428. Response time: 5.
+[NX Daemon Server] - 2024-08-04T19:31:39.749Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-08-04T19:31:39.750Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-08-04T19:31:39.750Z - Handled HASH_TASKS. Handling time: 19. Response time: 1.
+[NX Daemon Server] - 2024-08-04T19:36:59.273Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T19:36:59.279Z - [WATCHER]: apps/livy-font/react-native.config.js was created or restored
+[NX Daemon Server] - 2024-08-04T19:36:59.381Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T19:36:59.381Z - [REQUEST]: apps/livy-font/react-native.config.js
+[NX Daemon Server] - 2024-08-04T19:36:59.381Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T19:36:59.395Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:36:59.395Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:36:59.395Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:36:59.396Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:36:59.396Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:36:59.396Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:36:59.397Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:36:59.398Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:36:59.398Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T19:36:59.398Z - Time taken for 'hash changed files from watcher' 0.5031290000188164ms
+[NX Daemon Server] - 2024-08-04T19:36:59.399Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:36:59.399Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:36:59.399Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:36:59.400Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:36:59.400Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:36:59.400Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:36:59.401Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:36:59.401Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:36:59.401Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:36:59.402Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T19:36:59.402Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T19:36:59.402Z - Handled GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:36:59.428Z - Time taken for 'build-project-configs' 35.61562499997672ms
+[NX Daemon Server] - 2024-08-04T19:36:59.437Z - Time taken for '@nx/detox/plugin:createDependencies' 12.239865999959875ms
+[NX Daemon Server] - 2024-08-04T19:36:59.437Z - Time taken for '@nx/react-native/plugin:createDependencies' 15.12711900001159ms
+[NX Daemon Server] - 2024-08-04T19:36:59.471Z - Time taken for 'total execution time for createProjectGraph()' 42.916084000025876ms
+[NX Daemon Server] - 2024-08-04T19:37:28.304Z - [WATCHER]: apps/livy-font/react-native.config.js was modified
+[NX Daemon Server] - 2024-08-04T19:37:28.305Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T19:37:28.507Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T19:37:28.507Z - [REQUEST]: apps/livy-font/react-native.config.js
+[NX Daemon Server] - 2024-08-04T19:37:28.507Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T19:37:28.514Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:37:28.514Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:37:28.514Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:37:28.515Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:37:28.515Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:37:28.515Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:37:28.516Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:37:28.516Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:37:28.516Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:37:28.517Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:37:28.517Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:37:28.517Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:37:28.517Z - Time taken for 'hash changed files from watcher' 0.12681899999734014ms
+[NX Daemon Server] - 2024-08-04T19:37:28.518Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:37:28.518Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:37:28.518Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:37:28.519Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:37:28.519Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:37:28.519Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:37:28.520Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T19:37:28.520Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T19:37:28.520Z - Handled GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:37:28.539Z - Time taken for 'build-project-configs' 24.627547000010964ms
+[NX Daemon Server] - 2024-08-04T19:37:28.544Z - Time taken for '@nx/detox/plugin:createDependencies' 8.259507999988273ms
+[NX Daemon Server] - 2024-08-04T19:37:28.545Z - Time taken for '@nx/react-native/plugin:createDependencies' 10.88431400002446ms
+[NX Daemon Server] - 2024-08-04T19:37:28.572Z - Time taken for 'total execution time for createProjectGraph()' 32.8445359999896ms
+[NX Daemon Server] - 2024-08-04T19:38:02.441Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-08-04T19:38:02.441Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T19:38:02.843Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T19:38:02.843Z - [REQUEST]: package.json
+[NX Daemon Server] - 2024-08-04T19:38:02.843Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T19:38:02.852Z - [REQUEST]: Responding to the client with an error. Daemon outdated LOCK_FILES_CHANGED
+Error: LOCK_FILES_CHANGED
+    at handleMessage (/Users/shunt737/Projects/livy-font/node_modules/nx/src/daemon/server/server.js:78:88)
+    at /Users/shunt737/Projects/livy-font/node_modules/nx/src/daemon/server/server.js:59:15
+    at Socket.<anonymous> (/Users/shunt737/Projects/livy-font/node_modules/nx/src/utils/consume-messages-from-socket.js:13:17)
+    at Socket.emit (node:events:519:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+[NX Daemon Server] - 2024-08-04T19:38:02.852Z - Done responding to the client null
+[NX Daemon Server] - 2024-08-04T19:38:02.853Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:38:02.853Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:38:02.853Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:38:02.854Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:38:02.854Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:38:02.854Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:38:02.855Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:38:02.855Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:38:02.856Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T19:38:02.856Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:38:02.857Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:38:02.857Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T19:38:02.857Z - Time taken for 'hash changed files from watcher' 0.17606599995633587ms
+[NX Daemon Server] - 2024-08-04T19:38:02.858Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:38:02.858Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:38:02.858Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:38:02.859Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:38:02.859Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:38:02.860Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T19:38:02.861Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T19:38:02.861Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T19:38:02.861Z - Handled GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:38:02.879Z - Time taken for 'build-project-configs' 27.787537000025623ms
+[NX Daemon Server] - 2024-08-04T19:38:02.880Z - [WATCHER]: package-lock.json was modified
+[NX Daemon Server] - 2024-08-04T19:38:02.880Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T19:38:02.885Z - Time taken for '@nx/detox/plugin:createDependencies' 9.271767999976873ms
+[NX Daemon Server] - 2024-08-04T19:38:02.886Z - Time taken for '@nx/react-native/plugin:createDependencies' 11.235530000005383ms
+[NX Daemon Server] - 2024-08-04T19:38:02.938Z - Time taken for 'total execution time for createProjectGraph()' 63.18756599997869ms
+[NX Daemon Server] - 2024-08-04T19:38:03.681Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T19:38:03.682Z - [REQUEST]: package-lock.json
+[NX Daemon Server] - 2024-08-04T19:38:03.682Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T19:38:03.701Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:38:03.701Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:38:03.701Z - Handled HASH_GLOB. Handling time: 5. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:38:03.705Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:38:03.706Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:38:03.706Z - Handled HASH_GLOB. Handling time: 3. Response time: 1.
+[NX Daemon Server] - 2024-08-04T19:38:03.707Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:38:03.707Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:38:03.707Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:38:03.712Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:38:03.712Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:38:03.712Z - Handled HASH_GLOB. Handling time: 4. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:38:03.712Z - Time taken for 'hash changed files from watcher' 0.42427000001771376ms
+[NX Daemon Server] - 2024-08-04T19:38:03.714Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:38:03.714Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:38:03.714Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:38:03.718Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:38:03.718Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:38:03.718Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:38:03.720Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T19:38:03.720Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T19:38:03.720Z - Handled GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:38:03.742Z - Time taken for 'build-project-configs' 44.885942000022624ms
+[NX Daemon Server] - 2024-08-04T19:38:03.750Z - Time taken for '@nx/detox/plugin:createDependencies' 15.238365999946836ms
+[NX Daemon Server] - 2024-08-04T19:38:03.751Z - Time taken for '@nx/react-native/plugin:createDependencies' 17.906756000011228ms
+[NX Daemon Server] - 2024-08-04T19:38:03.775Z - Time taken for 'total execution time for createProjectGraph()' 37.30303099995945ms
+[NX Daemon Server] - 2024-08-04T19:42:59.383Z - [WATCHER]: apps/livy-font/webpack.config.js was modified
+[NX Daemon Server] - 2024-08-04T19:42:59.383Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T19:43:00.984Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T19:43:00.984Z - [REQUEST]: apps/livy-font/webpack.config.js
+[NX Daemon Server] - 2024-08-04T19:43:00.984Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T19:43:00.992Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:43:00.993Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:43:00.993Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T19:43:00.994Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:43:00.994Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:43:00.994Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:43:00.994Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:43:00.995Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:43:00.995Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T19:43:00.995Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:43:00.995Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:43:00.996Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:43:00.996Z - Time taken for 'hash changed files from watcher' 0.1378829999594018ms
+[NX Daemon Server] - 2024-08-04T19:43:00.997Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:43:00.997Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:43:00.997Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:43:00.998Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:43:00.998Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:43:00.998Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:43:01.012Z - Time taken for 'build-project-configs' 19.187646999955177ms
+[NX Daemon Server] - 2024-08-04T19:43:01.017Z - Time taken for '@nx/detox/plugin:createDependencies' 8.605355000006966ms
+[NX Daemon Server] - 2024-08-04T19:43:01.018Z - Time taken for '@nx/react-native/plugin:createDependencies' 11.24042200006079ms
+[NX Daemon Server] - 2024-08-04T19:43:01.041Z - Time taken for 'total execution time for createProjectGraph()' 29.207842999952845ms
+[NX Daemon Server] - 2024-08-04T19:43:30.064Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T19:43:30.064Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T19:43:33.266Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T19:43:33.267Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T19:43:33.267Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T19:43:33.276Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:43:33.276Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:43:33.276Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:43:33.277Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:43:33.277Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:43:33.277Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:43:33.278Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:43:33.278Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:43:33.278Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:43:33.279Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:43:33.279Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:43:33.279Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:43:33.279Z - Time taken for 'hash changed files from watcher' 0.3679850000189617ms
+[NX Daemon Server] - 2024-08-04T19:43:33.280Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:43:33.280Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:43:33.280Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:43:33.281Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:43:33.281Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:43:33.281Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:43:33.282Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T19:43:33.282Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T19:43:33.282Z - Handled GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:43:33.299Z - Time taken for 'build-project-configs' 24.82613499998115ms
+[NX Daemon Server] - 2024-08-04T19:43:33.304Z - Time taken for '@nx/detox/plugin:createDependencies' 7.218766000005417ms
+[NX Daemon Server] - 2024-08-04T19:43:33.305Z - Time taken for '@nx/react-native/plugin:createDependencies' 9.981085999985225ms
+[NX Daemon Server] - 2024-08-04T19:43:33.337Z - Time taken for 'total execution time for createProjectGraph()' 36.44381800002884ms
+[NX Daemon Server] - 2024-08-04T19:43:34.561Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T19:43:34.561Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T19:43:40.962Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T19:43:40.962Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T19:43:40.962Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T19:43:40.972Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:43:40.972Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:43:40.972Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:43:40.973Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:43:40.973Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:43:40.973Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:43:40.974Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:43:40.975Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:43:40.975Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T19:43:40.975Z - Time taken for 'hash changed files from watcher' 0.15926200000103563ms
+[NX Daemon Server] - 2024-08-04T19:43:40.976Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:43:40.976Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:43:40.977Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T19:43:40.978Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:43:40.978Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:43:40.978Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:43:40.979Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:43:40.979Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:43:40.979Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:43:40.981Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T19:43:40.981Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T19:43:40.981Z - Handled GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:43:41.028Z - Time taken for 'build-project-configs' 52.56600200000685ms
+[NX Daemon Server] - 2024-08-04T19:43:41.042Z - Time taken for '@nx/detox/plugin:createDependencies' 21.059039999963716ms
+[NX Daemon Server] - 2024-08-04T19:43:41.051Z - Time taken for '@nx/react-native/plugin:createDependencies' 31.784409999963827ms
+[NX Daemon Server] - 2024-08-04T19:43:41.097Z - Time taken for 'total execution time for createProjectGraph()' 71.64774300006684ms
+[NX Daemon Server] - 2024-08-04T19:44:00.402Z - [WATCHER]: apps/livy-font/react-native.config.js was deleted
+[NX Daemon Server] - 2024-08-04T19:44:00.402Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T19:44:06.803Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T19:44:06.803Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T19:44:06.803Z - [REQUEST]: apps/livy-font/react-native.config.js
+[NX Daemon Server] - 2024-08-04T19:44:06.813Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:44:06.814Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:44:06.814Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T19:44:06.814Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:44:06.815Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:44:06.815Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T19:44:06.815Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:44:06.815Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:44:06.815Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:44:06.816Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:44:06.816Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:44:06.816Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:44:06.816Z - Time taken for 'hash changed files from watcher' 0.15173100004903972ms
+[NX Daemon Server] - 2024-08-04T19:44:06.817Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:44:06.817Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:44:06.817Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:44:06.818Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:44:06.818Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:44:06.818Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:44:06.819Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T19:44:06.819Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T19:44:06.819Z - Handled GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:44:06.836Z - Time taken for 'build-project-configs' 24.81875299999956ms
+[NX Daemon Server] - 2024-08-04T19:44:06.841Z - Time taken for '@nx/detox/plugin:createDependencies' 7.731285999994725ms
+[NX Daemon Server] - 2024-08-04T19:44:06.842Z - Time taken for '@nx/react-native/plugin:createDependencies' 9.91532799997367ms
+[NX Daemon Server] - 2024-08-04T19:44:06.864Z - Time taken for 'total execution time for createProjectGraph()' 27.2455000000773ms
+[NX Daemon Server] - 2024-08-04T19:46:02.298Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T19:46:02.301Z - [WATCHER]: apps/livy-font/webpack.config.js was modified
+[NX Daemon Server] - 2024-08-04T19:46:08.703Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T19:46:08.703Z - [REQUEST]: apps/livy-font/webpack.config.js
+[NX Daemon Server] - 2024-08-04T19:46:08.703Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T19:46:08.712Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:46:08.712Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:46:08.712Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:46:08.713Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:46:08.713Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:46:08.713Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:46:08.713Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:46:08.714Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:46:08.714Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T19:46:08.714Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:46:08.714Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:46:08.714Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:46:08.715Z - Time taken for 'hash changed files from watcher' 0.18991600000299513ms
+[NX Daemon Server] - 2024-08-04T19:46:08.715Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:46:08.715Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:46:08.715Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:46:08.716Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:46:08.716Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:46:08.716Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:46:08.717Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T19:46:08.717Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T19:46:08.717Z - Handled GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:46:08.735Z - Time taken for 'build-project-configs' 23.593006000039168ms
+[NX Daemon Server] - 2024-08-04T19:46:08.739Z - Time taken for '@nx/detox/plugin:createDependencies' 7.484554999973625ms
+[NX Daemon Server] - 2024-08-04T19:46:08.741Z - Time taken for '@nx/react-native/plugin:createDependencies' 10.277415000018664ms
+[NX Daemon Server] - 2024-08-04T19:46:08.763Z - Time taken for 'total execution time for createProjectGraph()' 32.55818199994974ms
+[NX Daemon Server] - 2024-08-04T19:47:28.475Z - [WATCHER]: apps/livy-font/webpack.config.js was modified
+[NX Daemon Server] - 2024-08-04T19:47:28.476Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T19:47:34.877Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T19:47:34.877Z - [REQUEST]: apps/livy-font/webpack.config.js
+[NX Daemon Server] - 2024-08-04T19:47:34.877Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T19:47:34.892Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:47:34.892Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:47:34.892Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:47:34.894Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:47:34.894Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:47:34.894Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:47:34.895Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:47:34.896Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:47:34.896Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-04T19:47:34.897Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:47:34.897Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:47:34.897Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:47:34.897Z - Time taken for 'hash changed files from watcher' 0.32996599993202835ms
+[NX Daemon Server] - 2024-08-04T19:47:34.899Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:47:34.899Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:47:34.899Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:47:34.901Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:47:34.901Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:47:34.901Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:47:34.903Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-04T19:47:34.903Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-04T19:47:34.903Z - Handled GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:47:34.932Z - Time taken for 'build-project-configs' 44.59885299997404ms
+[NX Daemon Server] - 2024-08-04T19:47:34.939Z - Time taken for '@nx/detox/plugin:createDependencies' 10.923685000045225ms
+[NX Daemon Server] - 2024-08-04T19:47:34.942Z - Time taken for '@nx/react-native/plugin:createDependencies' 15.677196000004187ms
+[NX Daemon Server] - 2024-08-04T19:47:34.976Z - Time taken for 'total execution time for createProjectGraph()' 42.60671700001694ms
+[NX Daemon Server] - 2024-08-04T19:49:30.767Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T19:49:30.768Z - [WATCHER]: apps/livy-font/src/app/App.tsx was modified
+[NX Daemon Server] - 2024-08-04T19:49:37.169Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-04T19:49:37.170Z - [REQUEST]: apps/livy-font/src/app/App.tsx
+[NX Daemon Server] - 2024-08-04T19:49:37.170Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-04T19:49:37.179Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:49:37.179Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:49:37.179Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:49:37.180Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:49:37.180Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:49:37.180Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:49:37.181Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:49:37.181Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:49:37.181Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:49:37.182Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:49:37.182Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:49:37.182Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:49:37.182Z - Time taken for 'hash changed files from watcher' 0.23583499994128942ms
+[NX Daemon Server] - 2024-08-04T19:49:37.183Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:49:37.183Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:49:37.183Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:49:37.184Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:49:37.184Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-04T19:49:37.184Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-04T19:49:37.200Z - Time taken for 'build-project-configs' 21.989706000080332ms
+[NX Daemon Server] - 2024-08-04T19:49:37.204Z - Time taken for '@nx/detox/plugin:createDependencies' 7.976322000147775ms
+[NX Daemon Server] - 2024-08-04T19:49:37.205Z - Time taken for '@nx/react-native/plugin:createDependencies' 9.786326000001281ms
+[NX Daemon Server] - 2024-08-04T19:49:37.227Z - Time taken for 'total execution time for createProjectGraph()' 26.744414000073448ms
+[NX Daemon Server] - 2024-08-04T21:22:10.673Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-04T21:22:10.674Z - [WATCHER]: Stopping the watcher for /Users/shunt737/Projects/livy-font (sources)
+[NX Daemon Server] - 2024-08-04T21:22:10.675Z - [WATCHER]: Stopping the watcher for /Users/shunt737/Projects/livy-font (outputs)
+[NX Daemon Server] - 2024-08-04T21:22:10.675Z - Server stopped because: "NX_VERSION_CHANGED"

@@ -1,0 +1,5302 @@
+{
+  "9038863003512218732": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "2401535081192179567": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "11756878108991471424": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "9714442030501468495": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "5061681084650073659": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "13699934269657926055": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "11185200145897780726": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "12343998024102348261": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "977155587290120128": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "10529833126128710228": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "18426683576238634363": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "16688132068680091344": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "16487057767317939129": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "12146240071660574980": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "13224765742355654846": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "16030981522317757946": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "13197232335160369779": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "11432839117215417982": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "17263077745457758416": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "11097576954558709630": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "4937355847722218895": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "4332281547947851289": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "17452292316450641589": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "1307531560898411073": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "7103953321293702837": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "10791098350460507496": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "9971867997622653486": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "15564013357457516829": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "15412225480196770957": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "17224282487125532725": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "6098818575069653497": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "14395922187594830333": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "5408518049968354267": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "10082884322628931913": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "3251735521074079127": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "9674569828336850091": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "18248066311879990143": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "16796576812397693761": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "3742200546474324370": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "17064392637282934040": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "1617908838673646879": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "18137534682867937299": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "7562801778699849934": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "5847070482282534629": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "8710550125860801083": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "17178800392101763835": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "6827613270732569565": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "12864357031088910366": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "1111598087560137713": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "3194515461313295958": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "4646190068367786252": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "10451998555591352058": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  },
+  "11474002495209452875": {
+    "start": {
+      "command": "react-native start",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "pod-install": {
+      "command": "pod install",
+      "options": {
+        "cwd": "apps/livy-font/ios"
+      },
+      "dependsOn": [
+        "sync-deps"
+      ]
+    },
+    "run-ios": {
+      "command": "react-native run-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "run-android": {
+      "command": "react-native run-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    },
+    "build-ios": {
+      "command": "react-native build-ios",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-ios"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/ios/build/Build/Products"
+      ]
+    },
+    "build-android": {
+      "command": "react-native build-android",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "cache": true,
+      "dependsOn": [
+        "^build-android"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/apps/livy-font/android/app/build/outputs"
+      ]
+    },
+    "bundle": {
+      "command": "react-native bundle",
+      "options": {
+        "cwd": "apps/livy-font"
+      },
+      "dependsOn": [
+        "^bundle"
+      ],
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "react-native"
+          ]
+        }
+      ]
+    },
+    "sync-deps": {
+      "executor": "@nx/react-native:sync-deps"
+    },
+    "update": {
+      "command": "react-native upgrade",
+      "options": {
+        "cwd": "apps/livy-font"
+      }
+    }
+  }
+}
