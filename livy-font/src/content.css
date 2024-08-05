@@ -1,0 +1,96 @@
+.livy-font-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  margin-top: 48px;
+}
+
+.livy-font-content-container {
+  width: 50vw;
+  display: flex;
+  flex-direction: column;
+  padding: 24px 24px;
+  border-bottom: 1px solid #dadce0;
+  background-color: white;
+}
+
+@media only screen and (max-width: 1440px) {
+  .livy-font-content-container {
+    width: 80vw;
+  }
+}
+
+.livy-font-content-container:last-child {
+  border-bottom: none;
+}
+
+.livy-font-content-container:hover {
+  background-color: #dadce0;
+}
+
+.livy-font-content-container .label-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 24px;
+  height: 30px;
+}
+
+.livy-font-content-container .label-container p {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+}
+
+.livy-font-content-container .content-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  height: 50px;
+  margin-bottom: 8px;
+}
+
+.livy-font-content-container .content-container h1 {
+  font-size: 40px;
+}
+
+.catharsis-bedouin-regular {
+  font-family: 'Catharsis Bedouin', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.fiolex-girls-regular {
+  font-family: 'Fiolex Girls', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.pinyon-script-regular {
+  font-family: "Pinyon Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.mrs-saint-delafield-regular {
+  font-family: "Mrs Saint Delafield", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.dancing-script-regular {
+  font-family: "Dancing Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.alex-brush-regular {
+  font-family: "Alex Brush", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+

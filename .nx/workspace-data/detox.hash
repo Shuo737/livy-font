@@ -1,0 +1,122 @@
+{
+  "934744541407329000": {
+    "build": {
+      "command": "detox build",
+      "options": {
+        "cwd": "apps/livy-font-e2e"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "detox"
+          ]
+        }
+      ]
+    },
+    "start": {
+      "command": "detox start",
+      "options": {
+        "cwd": "apps/livy-font-e2e"
+      }
+    },
+    "test": {
+      "command": "detox test",
+      "options": {
+        "cwd": "apps/livy-font-e2e"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "detox"
+          ]
+        }
+      ]
+    }
+  },
+  "6637886947894891778": {
+    "build": {
+      "command": "detox build",
+      "options": {
+        "cwd": "apps/livy-font-e2e"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "detox"
+          ]
+        }
+      ]
+    },
+    "start": {
+      "command": "detox start",
+      "options": {
+        "cwd": "apps/livy-font-e2e"
+      }
+    },
+    "test": {
+      "command": "detox test",
+      "options": {
+        "cwd": "apps/livy-font-e2e"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "detox"
+          ]
+        }
+      ]
+    }
+  },
+  "8029618971074706894": {
+    "build": {
+      "command": "detox build",
+      "options": {
+        "cwd": "apps/livy-font-e2e"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "detox"
+          ]
+        }
+      ]
+    },
+    "start": {
+      "command": "detox start",
+      "options": {
+        "cwd": "apps/livy-font-e2e"
+      }
+    },
+    "test": {
+      "command": "detox test",
+      "options": {
+        "cwd": "apps/livy-font-e2e"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "detox"
+          ]
+        }
+      ]
+    }
+  }
+}

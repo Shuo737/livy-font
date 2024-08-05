@@ -1,0 +1,469 @@
+{
+  "version": "6.0",
+  "nxVersion": "19.5.6",
+  "deps": {
+    "@react-native-vector-icons/ionicons": "^7.4.0-alpha.18",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-native": "0.74.1",
+    "react-native-vector-icons": "^10.1.0",
+    "@babel/core": "^7.14.5",
+    "@babel/preset-react": "^7.14.5",
+    "@nx/detox": "19.5.6",
+    "@nx/eslint": "19.5.6",
+    "@nx/eslint-plugin": "19.5.6",
+    "@nx/js": "19.5.6",
+    "@nx/react-native": "19.5.6",
+    "@nx/web": "19.5.6",
+    "@nx/webpack": "19.5.6",
+    "@nx/workspace": "19.5.6",
+    "@react-native-community/cli-platform-android": "~13.6.6",
+    "@react-native/babel-preset": "^0.74.83",
+    "@react-native/metro-config": "^0.74.83",
+    "@swc-node/register": "~1.9.1",
+    "@swc/core": "~1.5.7",
+    "@swc/helpers": "~0.5.11",
+    "@testing-library/jest-dom": "~6.4.2",
+    "@testing-library/jest-native": "~5.4.3",
+    "@testing-library/react-native": "~12.5.0",
+    "@types/node": "18.16.9",
+    "@types/react": "~18.2.45",
+    "@typescript-eslint/eslint-plugin": "^7.16.0",
+    "@typescript-eslint/parser": "^7.16.0",
+    "detox": "~20.18.1",
+    "eslint": "~8.57.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-import": "2.27.5",
+    "eslint-plugin-jsx-a11y": "6.7.1",
+    "eslint-plugin-react": "7.32.2",
+    "eslint-plugin-react-hooks": "4.6.0",
+    "jest-circus": "^29.4.1",
+    "jest-react-native": "18.0.0",
+    "nx": "19.5.6",
+    "prettier": "^2.6.2",
+    "react-native-svg": "15.3.0",
+    "react-native-svg-transformer": "1.3.0",
+    "react-native-web": "^0.19.11",
+    "react-test-renderer": "18.2.0",
+    "typescript": "~5.5.2",
+    "webpack-cli": "^5.1.4"
+  },
+  "pathMappings": {},
+  "nxJsonPlugins": [
+    {
+      "name": "@nx/react-native/plugin",
+      "options": {
+        "startTargetName": "start",
+        "upgradeTargetname": "update",
+        "bundleTargetName": "bundle",
+        "podInstallTargetName": "pod-install",
+        "runIosTargetName": "run-ios",
+        "runAndroidTargetName": "run-android",
+        "buildIosTargetName": "build-ios",
+        "buildAndroidTargetName": "build-android",
+        "syncDepsTargetName": "sync-deps"
+      }
+    },
+    {
+      "name": "@nx/eslint/plugin",
+      "options": {
+        "targetName": "lint"
+      }
+    },
+    {
+      "name": "@nx/webpack/plugin",
+      "options": {
+        "buildTargetName": "build",
+        "serveTargetName": "serve",
+        "previewTargetName": "preview"
+      }
+    },
+    {
+      "name": "@nx/detox/plugin",
+      "options": {
+        "buildTargetName": "build",
+        "startTargetName": "start",
+        "testTargetName": "test"
+      }
+    }
+  ],
+  "fileMap": {
+    "nonProjectFiles": [
+      {
+        "file": ".eslintrc.json",
+        "hash": "17866138117546000433"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "8499141749045350268"
+      },
+      {
+        "file": "tsconfig.base.json",
+        "hash": "16936441711144470533"
+      },
+      {
+        "file": "README.md",
+        "hash": "13137519133071812201"
+      },
+      {
+        "file": "nx.json",
+        "hash": "13521417237593519224"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "1770140841440169369"
+      },
+      {
+        "file": ".editorconfig",
+        "hash": "5443105041930014821"
+      },
+      {
+        "file": ".prettierignore",
+        "hash": "14688272390704683536"
+      },
+      {
+        "file": ".eslintignore",
+        "hash": "7663861978715868291"
+      },
+      {
+        "file": ".prettierrc",
+        "hash": "16267754514737964994"
+      },
+      {
+        "file": "package.json",
+        "hash": "4482324918060650132"
+      },
+      {
+        "file": ".vscode/extensions.json",
+        "hash": "4134969992917317260"
+      }
+    ],
+    "projectFileMap": {
+      "livy-font": [
+        {
+          "file": "apps/livy-font/.babelrc.js",
+          "hash": "16687177253134695009"
+        },
+        {
+          "file": "apps/livy-font/.eslintrc.json",
+          "hash": "4314008619601461772"
+        },
+        {
+          "file": "apps/livy-font/Gemfile",
+          "hash": "12634983872715941796"
+        },
+        {
+          "file": "apps/livy-font/android/app/build.gradle",
+          "hash": "9575725272655774820"
+        },
+        {
+          "file": "apps/livy-font/android/app/debug.keystore",
+          "hash": "5037686243849261810"
+        },
+        {
+          "file": "apps/livy-font/android/app/proguard-rules.pro",
+          "hash": "13814197385154279786"
+        },
+        {
+          "file": "apps/livy-font/android/app/src/androidTest/java/com/livyfont/DetoxTest.java",
+          "hash": "14505215517819156896"
+        },
+        {
+          "file": "apps/livy-font/android/app/src/debug/AndroidManifest.xml",
+          "hash": "6240243292074074294"
+        },
+        {
+          "file": "apps/livy-font/android/app/src/main/AndroidManifest.xml",
+          "hash": "7079440948961830635"
+        },
+        {
+          "file": "apps/livy-font/android/app/src/main/java/com/livyfont/MainActivity.kt",
+          "hash": "1215613858259872970"
+        },
+        {
+          "file": "apps/livy-font/android/app/src/main/java/com/livyfont/MainApplication.kt",
+          "hash": "13402981700520493424"
+        },
+        {
+          "file": "apps/livy-font/android/app/src/main/res/drawable/rn_edit_text_material.xml",
+          "hash": "617140720749664772"
+        },
+        {
+          "file": "apps/livy-font/android/app/src/main/res/mipmap-hdpi/ic_launcher.png",
+          "hash": "10788509195642110029"
+        },
+        {
+          "file": "apps/livy-font/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png",
+          "hash": "14348562046770238248"
+        },
+        {
+          "file": "apps/livy-font/android/app/src/main/res/mipmap-mdpi/ic_launcher.png",
+          "hash": "328692529308011025"
+        },
+        {
+          "file": "apps/livy-font/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png",
+          "hash": "11802043336826859502"
+        },
+        {
+          "file": "apps/livy-font/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "hash": "13006206334539413900"
+        },
+        {
+          "file": "apps/livy-font/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png",
+          "hash": "1812825738055967771"
+        },
+        {
+          "file": "apps/livy-font/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
+          "hash": "6104457872863500683"
+        },
+        {
+          "file": "apps/livy-font/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png",
+          "hash": "2478168592410677995"
+        },
+        {
+          "file": "apps/livy-font/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+          "hash": "12283149652938275290"
+        },
+        {
+          "file": "apps/livy-font/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png",
+          "hash": "7126668675123994836"
+        },
+        {
+          "file": "apps/livy-font/android/app/src/main/res/values/strings.xml",
+          "hash": "10805394726695775149"
+        },
+        {
+          "file": "apps/livy-font/android/app/src/main/res/values/styles.xml",
+          "hash": "14052910750539201041"
+        },
+        {
+          "file": "apps/livy-font/android/app/src/main/res/xml/network_security_config.xml",
+          "hash": "7470100900868657300"
+        },
+        {
+          "file": "apps/livy-font/android/build.gradle",
+          "hash": "14353055709118890574"
+        },
+        {
+          "file": "apps/livy-font/android/gradle.properties",
+          "hash": "17172799516360292792"
+        },
+        {
+          "file": "apps/livy-font/android/gradle/wrapper/gradle-wrapper.jar",
+          "hash": "11064621541907778082"
+        },
+        {
+          "file": "apps/livy-font/android/gradle/wrapper/gradle-wrapper.properties",
+          "hash": "8342572579670594202"
+        },
+        {
+          "file": "apps/livy-font/android/gradlew",
+          "hash": "6979324130797723579"
+        },
+        {
+          "file": "apps/livy-font/android/gradlew.bat",
+          "hash": "9188834059793722343"
+        },
+        {
+          "file": "apps/livy-font/android/settings.gradle",
+          "hash": "5235029891939195351"
+        },
+        {
+          "file": "apps/livy-font/app.json",
+          "hash": "8642735269714285718"
+        },
+        {
+          "file": "apps/livy-font/ios/.xcode.env",
+          "hash": "12704946661619936455"
+        },
+        {
+          "file": "apps/livy-font/ios/LivyFont.xcodeproj/project.pbxproj",
+          "hash": "13711513186005547084"
+        },
+        {
+          "file": "apps/livy-font/ios/LivyFont.xcodeproj/xcshareddata/xcschemes/LivyFont.xcscheme",
+          "hash": "930818951557622257"
+        },
+        {
+          "file": "apps/livy-font/ios/LivyFont.xcworkspace/contents.xcworkspacedata",
+          "hash": "15906639920647030384"
+        },
+        {
+          "file": "apps/livy-font/ios/LivyFont/AppDelegate.h",
+          "hash": "4105548683868581501"
+        },
+        {
+          "file": "apps/livy-font/ios/LivyFont/AppDelegate.mm",
+          "hash": "16879264891145054461"
+        },
+        {
+          "file": "apps/livy-font/ios/LivyFont/Images.xcassets/AppIcon.appiconset/Contents.json",
+          "hash": "11595540762170193386"
+        },
+        {
+          "file": "apps/livy-font/ios/LivyFont/Images.xcassets/Contents.json",
+          "hash": "16272710630576636421"
+        },
+        {
+          "file": "apps/livy-font/ios/LivyFont/Info.plist",
+          "hash": "9494426191073164618"
+        },
+        {
+          "file": "apps/livy-font/ios/LivyFont/LaunchScreen.storyboard",
+          "hash": "8975465922075713362"
+        },
+        {
+          "file": "apps/livy-font/ios/LivyFont/PrivacyInfo.xcprivacy",
+          "hash": "462564682575348740"
+        },
+        {
+          "file": "apps/livy-font/ios/LivyFont/main.m",
+          "hash": "3932908704591016568"
+        },
+        {
+          "file": "apps/livy-font/ios/LivyFontTests/Info.plist",
+          "hash": "490535150174461673"
+        },
+        {
+          "file": "apps/livy-font/ios/LivyFontTests/LivyFontTests.m",
+          "hash": "15591309076584031278"
+        },
+        {
+          "file": "apps/livy-font/ios/Podfile",
+          "hash": "15037028578554076865"
+        },
+        {
+          "file": "apps/livy-font/metro.config.js",
+          "hash": "3497294811036783580",
+          "deps": [
+            "npm:@nx/react-native",
+            "npm:@react-native/metro-config",
+            "npm:react-native-svg-transformer"
+          ]
+        },
+        {
+          "file": "apps/livy-font/package.json",
+          "hash": "14346489361268920432",
+          "deps": [
+            "npm:@react-native/metro-config",
+            "npm:@testing-library/jest-native",
+            "npm:@testing-library/react-native",
+            "npm:react",
+            "npm:react-native",
+            "npm:react-native-svg",
+            "npm:metro-config"
+          ]
+        },
+        {
+          "file": "apps/livy-font/project.json",
+          "hash": "8204069274847333476"
+        },
+        {
+          "file": "apps/livy-font/src/app/App.spec.tsx",
+          "hash": "3379911321437688186",
+          "deps": [
+            "npm:react",
+            "npm:@testing-library/react-native"
+          ]
+        },
+        {
+          "file": "apps/livy-font/src/app/App.tsx",
+          "hash": "16659785704976163816",
+          "deps": [
+            "npm:react",
+            "npm:react-native",
+            "npm:react-native-vector-icons",
+            "npm:react-native-svg"
+          ]
+        },
+        {
+          "file": "apps/livy-font/src/assets/.gitkeep",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/livy-font/src/favicon.ico",
+          "hash": "9303420814833116677"
+        },
+        {
+          "file": "apps/livy-font/src/index.html",
+          "hash": "18097118824728898911"
+        },
+        {
+          "file": "apps/livy-font/src/main-web.tsx",
+          "hash": "15724100768856802330",
+          "deps": [
+            "npm:react",
+            "npm:react-dom"
+          ]
+        },
+        {
+          "file": "apps/livy-font/src/main.tsx",
+          "hash": "1495151831845010517",
+          "deps": [
+            "npm:react-native"
+          ]
+        },
+        {
+          "file": "apps/livy-font/tsconfig.app.json",
+          "hash": "12729501496426907958"
+        },
+        {
+          "file": "apps/livy-font/tsconfig.json",
+          "hash": "7759624752786837311"
+        },
+        {
+          "file": "apps/livy-font/webpack.config.js",
+          "hash": "11343460667551844352",
+          "deps": [
+            "npm:@nx/webpack",
+            "npm:@nx/react"
+          ]
+        }
+      ],
+      "livy-font-e2e": [
+        {
+          "file": "apps/livy-font-e2e/.babelrc",
+          "hash": "13020124393823981135"
+        },
+        {
+          "file": "apps/livy-font-e2e/.detoxrc.json",
+          "hash": "7046384556137340129"
+        },
+        {
+          "file": "apps/livy-font-e2e/.eslintrc.json",
+          "hash": "11012487992710232822"
+        },
+        {
+          "file": "apps/livy-font-e2e/jest.config.json",
+          "hash": "1852808243276453464"
+        },
+        {
+          "file": "apps/livy-font-e2e/project.json",
+          "hash": "11880134322415963198"
+        },
+        {
+          "file": "apps/livy-font-e2e/src/app.spec.ts",
+          "hash": "7644285111903516415",
+          "deps": [
+            "npm:detox"
+          ]
+        },
+        {
+          "file": "apps/livy-font-e2e/test-setup.ts",
+          "hash": "891269836898640451",
+          "deps": [
+            "npm:detox"
+          ]
+        },
+        {
+          "file": "apps/livy-font-e2e/tsconfig.e2e.json",
+          "hash": "11142322477626239235"
+        },
+        {
+          "file": "apps/livy-font-e2e/tsconfig.json",
+          "hash": "4500232260948002331"
+        }
+      ]
+    }
+  }
+}
