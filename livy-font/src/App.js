@@ -1,23 +1,23 @@
-import logo from './logo.svg';
+import { useState } from 'react';
+
 import './App.css';
+import LivyHeader from './header';
+import LivyContent from './content';
 
 function App() {
+  const [state, setState] = useState({
+    text: 'Livy Gift Shop'
+  });
+
+  const updateText = (text) => {
+    setState({
+      text
+    });
+  }
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <LivyHeader updateText={updateText}/>
+      <LivyContent message={state.text} />
     </div>
   );
 }
