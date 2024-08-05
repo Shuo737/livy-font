@@ -30,6 +30,7 @@
   }
 
   .livy-font-header-container .input-field {
+    margin-top: 24px;
     width: 80vw !important;
   }
 }
